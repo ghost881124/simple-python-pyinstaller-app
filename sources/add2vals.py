@@ -21,5 +21,5 @@ if argnumbers != 2 :
     print("Usage: 'add2vals X Y' where X and Y are individual values.")
     print("       If add2vals is not in your path, usage is './add2vals X Y'.")
     print("       If unbundled, usage is 'python add2vals.py X Y'.")
-    print("1111111111111111111111111111111111111111111111111111111111111111111111111")
+    print("111111111111111111111111111111111111111111111111111111111111111111111111111")
     sys.exit(1)
